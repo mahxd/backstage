@@ -1,5 +1,11 @@
 # @backstage/plugin-kubernetes-backend
 
+## 0.11.1-next.3
+
+### Patch Changes
+
+- 91f39df52d60: K8s proxy HEADER_KUBERNETES_CLUSTER is now optional in single-cluster setups.
+
 ## 0.11.1-next.2
 
 ### Patch Changes

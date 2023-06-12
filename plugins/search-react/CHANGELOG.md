@@ -1,5 +1,13 @@
 # @backstage/plugin-search-react
 
+## 1.6.2-next.3
+
+### Patch Changes
+
+- 0134c1aa4f36: Fix accessibility issue in `SearchCheckbox` component, making it possible to use the field via keyboard.
+- Updated dependencies
+  - @backstage/core-components@0.13.2-next.3
+
 ## 1.6.1-next.2
 
 ### Patch Changes

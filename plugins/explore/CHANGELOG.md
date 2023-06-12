@@ -1,5 +1,16 @@
 # @backstage/plugin-explore
 
+## 0.4.5-next.3
+
+### Patch Changes
+
+- 78cbb8ef8aea: Enhance the tools card accessibility by using appropriate header semantics.
+- Updated dependencies
+  - @backstage/plugin-search-react@1.6.2-next.3
+  - @backstage/core-components@0.13.2-next.3
+  - @backstage/plugin-catalog-react@1.7.0-next.3
+  - @backstage/plugin-explore-react@0.0.29-next.0
+
 ## 0.4.4-next.2
 
 ### Patch Changes
